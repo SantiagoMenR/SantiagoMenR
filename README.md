@@ -22,17 +22,15 @@
 
 <h3 align="left">🛠 Lenguajes y Herramientas</h3>
 
-###
-  <img width="12" />
-  <img src="https://images.icon-icons.com/1508/PNG/512/python_104451.png" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_git_icon_130581.png" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://images.icon-icons.com/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189955.png" height="40" alt="visual logo"  />
-  <img width="12" />
-  <img src="https://images.icon-icons.com/936/PNG/512/github-logo_icon-icons.com_73546.png" height="40" alt="github logo"  />
-  <img width="12" />
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+</p>
 
 ###
 
@@ -49,5 +47,7 @@
 <h3 align="left">👩‍💻  Contacto</h3>
 <p align="left"><br>- ✉️ smrivera135@gmail.com</p>
 <p align="left"><br>- GitHub: SantiagoMenR</p>
+<p align="left"><br>- Portafolio: <a src="portafoliosantiagomendoza.vercel.app">portafoliosantiagomendoza.vercel.app
+</a></p>
 
 ###
