@@ -47,7 +47,6 @@
 <h3 align="left">👩‍💻  Contacto</h3>
 <p align="left"><br>- ✉️ smrivera135@gmail.com</p>
 <p align="left"><br>- GitHub: SantiagoMenR</p>
-<p align="left"><br>- Portafolio: <a src="portafoliosantiagomendoza.vercel.app">portafoliosantiagomendoza.vercel.app
-</a></p>
+<p align="left"><br>- Portafolio: <a href="https://portafoliosantiagomendoza.vercel.app" target="_blank">portafoliosantiagomendoza.vercel.app</a></p>
 
 ###
