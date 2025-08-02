@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Tengo 17 años y soy de Pamplona, Norte De Santander<br><br>- 📚 Estoy estudiando un tecnico en desarrollo de software<br>- ⚡ Soy un apasionado por la tecnologia, los videojuegos, la musica y los deportes</p>
+<p align="left">¡Hola! Soy Santiago, un desarrollador de 17 años apasionado por crear soluciones innovadoras. Originario de Pamplona, Norte de Santander, Colombia.<br><br>🚀 <strong>Mi Journey:</strong><br>- 📚 Actualmente cursando un técnico en desarrollo de software<br>- 💻 Me encanta explorar nuevas tecnologías y frameworks<br>- 🎮 Gamer por naturaleza, siempre buscando inspiración en los videojuegos<br>- 🎵 La música es mi compañera de código<br>- ⚽ Deportista que entiende la importancia del trabajo en equipo<br><br>✨ <strong>Mi Filosofía:</strong> Cada línea de código es una oportunidad para crear algo extraordinario.</p>
 
 ###
 
@@ -27,6 +27,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
