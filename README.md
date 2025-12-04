@@ -1,55 +1,77 @@
 
-###
-###
+# ¡Hola! 👋  
+### Soy Santiago — Desarrollador Full-Stack y creador de soluciones escalables 🚀
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SantiagoMenR.SantiagoMenR&"  />
-</div>
+---
 
-###
+## 🧑‍💻 Sobre mí
 
-<h1 align="center">¡ Hola ! 👋</h1>
+Soy un desarrollador de software apasionado por transformar ideas en productos reales. Aunque comencé muy joven, hoy cuento con experiencia profesional construyendo sistemas completos: desde APIs robustas y seguras hasta interfaces accesibles y eficientes.
 
-###
+A lo largo de mi camino he desarrollado proyectos con tecnologías modernas, integraciones complejas y arquitecturas orientadas a microservicios y contenedores.
 
-<h3 align="left">👩‍💻  Acerca De Mi</h3>
+**Mi objetivo:** crear software que funcione, escale y aporte valor.
 
-###
+---
 
-<p align="left">¡Hola! Soy Santiago, un desarrollador de 17 años apasionado por crear soluciones innovadoras. Originario de Pamplona, Norte de Santander, Colombia.<br><br>🚀 <strong>Mi Journey:</strong><br>- 📚 Actualmente cursando un técnico en desarrollo de software<br>- 💻 Me encanta explorar nuevas tecnologías y frameworks<br>- 🎮 Gamer por naturaleza, siempre buscando inspiración en los videojuegos<br>- 🎵 La música es mi compañera de código<br>- ⚽ Deportista que entiende la importancia del trabajo en equipo<br><br>✨ <strong>Mi Filosofía:</strong> Cada línea de código es una oportunidad para crear algo extraordinario.</p>
+## 🛠️ Mi Journey
 
-###
+- 🎓 Estudiante avanzado de desarrollo de software  
+- 💡 Apasionado por aprender nuevas tecnologías, frameworks y arquitecturas  
+- 🎮 Gamer de corazón: encuentro inspiración en los videojuegos  
+- 🎧 La música me acompaña en cada línea de código  
+- 🧩 Amante de los retos técnicos y del trabajo en equipo  
+- 💥 Actualmente construyendo proyectos que combinan backend sólido + frontend moderno + despliegue en la nube
 
-<h3 align="left">🛠 Lenguajes y Herramientas</h3>
+---
 
+## 🧭 Mi filosofía  
+> *Cada línea de código es una oportunidad para crear algo extraordinario.*
+
+---
+
+## ⚙️ Lenguajes y Herramientas
+
+### **Backend & DevOps**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,python,django,docker" height="48" />
 </p>
 
-###
+### **Frontend & General**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,vscode,git,github" height="48" />
+</p>
 
-<h3 align="left">🔥  Mis Estadisticas:</h3>
+---
 
-###
+## 📌 Experiencia y proyectos
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SantiagoMenR&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+- ✨ Desarrollo de APIs REST con **Java + Spring Boot**, JWT y seguridad basada en roles  
+- 🗄️ Modelado de bases de datos y consultas avanzadas en **PostgreSQL**  
+- 🐳 Contenerización de aplicaciones con **Docker**  
+- 🔄 Integración frontend–backend con arquitecturas modulares  
+- 📊 Implementación de dashboards, sistemas de inventario y CRMs  
+- 🧪 Pruebas, documentación y automatización de despliegues  
 
-###
-###
-<h3 align="left">👩‍💻  Contacto</h3>
-<p align="left"><br>- ✉️ smrivera135@gmail.com</p>
-<p align="left"><br>- GitHub: SantiagoMenR</p>
-<p align="left"><br>- Portafolio: <a href="https://portafoliosantiagomendoza.vercel.app" target="_blank">portafoliosantiagomendoza.vercel.app</a></p>
+---
 
-###
+## 🔥 Mis estadísticas:
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SantiagoMenR&theme=tokyonight&hide_border=true" width="450"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoMenR&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
+</p>
+
+---
+
+## 📬 Contacto
+
+- 📧 **smrivera135@gmail.com**  
+- 🐙 GitHub: **[SantiagoMenR](https://github.com/SantiagoMenR)**
+- Portafolio: **https://portafoliosantiagomendoza.vercel.app**
+
+---
+
