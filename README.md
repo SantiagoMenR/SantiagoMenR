@@ -1,27 +1,30 @@
 
-# ¡Hola! 👋  
-### Soy Santiago — Desarrollador Full-Stack y creador de soluciones escalables 🚀
+<!-- Banner Animado -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00FF99&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hola%2C+soy+Santiago!;Desarrollador+Full+Stack+Java+%F0%9F%9A%80;Construyendo+soluciones+reales+y+escalables;Backend+%7C+Frontend+%7C+DevOps" alt="Banner animado" />
+</p>
+
+# 💻 Desarrollador Full-Stack — Santiago  
+### Innovación, arquitectura y código que transforma ideas en productos reales.
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-Soy un desarrollador de software apasionado por transformar ideas en productos reales. Aunque comencé muy joven, hoy cuento con experiencia profesional construyendo sistemas completos: desde APIs robustas y seguras hasta interfaces accesibles y eficientes.
+Soy un desarrollador de software con experiencia profesional construyendo sistemas completos: APIs seguras, dashboards administrativos, sistemas de inventario, y aplicaciones contenedorizadas listas para producción.
 
-A lo largo de mi camino he desarrollado proyectos con tecnologías modernas, integraciones complejas y arquitecturas orientadas a microservicios y contenedores.
-
-**Mi objetivo:** crear software que funcione, escale y aporte valor.
+Me apasiona aprender, mejorar y llevar cada proyecto a un nivel más alto, combinando buenas prácticas con tecnologías modernas.
 
 ---
 
 ## 🛠️ Mi Journey
 
-- 🎓 Estudiante avanzado de desarrollo de software  
-- 💡 Apasionado por aprender nuevas tecnologías, frameworks y arquitecturas  
-- 🎮 Gamer de corazón: encuentro inspiración en los videojuegos  
-- 🎧 La música me acompaña en cada línea de código  
-- 🧩 Amante de los retos técnicos y del trabajo en equipo  
-- 💥 Actualmente construyendo proyectos que combinan backend sólido + frontend moderno + despliegue en la nube
+- 🎓 Formación sólida en desarrollo de software  
+- 💡 En constante aprendizaje de arquitecturas modernas y patrones de diseño  
+- 🎮 Gamer, de donde saco mucha creatividad  
+- 🎧 La música mueve cada línea de código  
+- ⚙️ Experiencia construyendo backend, frontend y DevOps  
+- 🔥 Enfocado en crear productos funcionales y escalables
 
 ---
 
@@ -30,11 +33,11 @@ A lo largo de mi camino he desarrollado proyectos con tecnologías modernas, int
 
 ---
 
-## ⚙️ Lenguajes y Herramientas
+## ⚙️ Tecnologías y Herramientas
 
 ### **Backend & DevOps**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,python,django,docker" height="48" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postman,postgres,mysql,python,django,docker" height="48" />
 </p>
 
 ### **Frontend & General**
@@ -44,26 +47,50 @@ A lo largo de mi camino he desarrollado proyectos con tecnologías modernas, int
 
 ---
 
-## 📌 Experiencia y proyectos
+# 🚀 Proyectos Destacados
 
-- ✨ Desarrollo de APIs REST con **Java + Spring Boot**, JWT y seguridad basada en roles  
-- 🗄️ Modelado de bases de datos y consultas avanzadas en **PostgreSQL**  
-- 🐳 Contenerización de aplicaciones con **Docker**  
-- 🔄 Integración frontend–backend con arquitecturas modulares  
-- 📊 Implementación de dashboards, sistemas de inventario y CRMs  
-- 🧪 Pruebas, documentación y automatización de despliegues  
+### 📦 **Sistema de Inventario con Auditorías Automáticas**
+**Tecnologías:** Java, Spring Boot, PostgreSQL, JWT, Triggers SQL, Docker  
+**Descripción:**  
+Sistema completo para control de inventario con auditorías automáticas en base de datos, roles con permisos y dashboard administrativo.  
+- Gestión de productos, bodegas y movimientos  
+- Autenticación y autorización basada en roles (Admin / Empleado)  
+- Auditorías automáticas mediante triggers PostgreSQL  
+- API escalable y segura lista para producción  
 
 ---
 
-## 🔥 Mis estadísticas:
+### 🛡️ **ChatBot experto en Transporte**
+**Tecnologías:** Python, Flask, Modelo Mistral  
+**Descripción:**  
+ChatBot experto para empresas de transporte con respuestas conversacionales gracias al modelo Mistral.
+- Integracion con modelo de IA
+- Frontend interactivo
+- Backend desarrollado con Python
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SantiagoMenR&theme=tokyonight&hide_border=true" width="450"/>
-</p>
+--- 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoMenR&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
-</p>
+### ☕ **Aplicación de Gestión de Cafeterías (Fullstack con Django)**
+**Tecnologías:** Django (Fullstack), Python, HTML/CSS, SQL (PostgreSQL / MySQL)
+**Descripción:**
+Desarrollo de una aplicación completa para la gestión integral de cafeterías utilizando Django como framework fullstack.
+- Implementación de modelos y vistas siguiendo arquitectura MTV
+- Gestión de productos, ventas, empleados y pedidos
+- Panel administrativo dinámico utilizando Django Admin
+- Integración con base de datos relacional usando SQL
+- Sistema escalable, modular y adaptable a múltiples sedes
+  
+---
+
+# 🤝 Soft Skills
+### **🌟 Habilidades Interpersonales**
+
+- Comunicación clara y efectiva
+- Trabajo en equipo y colaboración constante
+- Adaptabilidad ante nuevos desafíos y tecnologías
+- Resolución de problemas de manera lógica y eficiente
+- Gestión del tiempo y priorización de tareas
+- Pensamiento crítico orientado a la mejora continua
 
 ---
 
@@ -74,4 +101,5 @@ A lo largo de mi camino he desarrollado proyectos con tecnologías modernas, int
 - Portafolio: **https://portafoliosantiagomendoza.vercel.app**
 
 ---
+
 
